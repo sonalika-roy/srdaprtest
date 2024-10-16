@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2b93Tz/wJGQ8oBpX0hGUNKO1YLtLpz7/fV9rIftNv68=",
+  "Source": "DaprEmailService",
+  "BasePath": "_content/DaprEmailService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
